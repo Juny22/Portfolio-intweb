@@ -21,10 +21,6 @@
     <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
 </h3>
 
-## TL;DR
-
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
-
 ## Built With
 
 This project was built using these technologies.
@@ -62,3 +58,5 @@ The page will reload if you make edits.
 
 Open the project folder and Navigate to `/src/components/`. <br/>
 You will find all the components used and you can edit your information accordingly.
+
+Portfolio model by [Soumyajit4419](https://github.com/soumyajit4419/Portfolio).
