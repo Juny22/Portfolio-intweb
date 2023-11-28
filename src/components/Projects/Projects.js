@@ -22,9 +22,9 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="titre"
+              title="ArgentBank"
               description="description"
-              ghLink="https://github.com/"
+              ghLink="https://github.com/Juny22/ArgentBank-website"
               demoLink=""
             />
           </Col>
@@ -33,9 +33,9 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="titre"
+              title="724Events"
               description="description"
-              ghLink="https://github.com/"
+              ghLink="https://github.com/Juny22/Projet-10---724events"
               demoLink=""
             />
           </Col>
@@ -44,10 +44,43 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="titre"
+              title="Nina Carducci"
               description="description"
-              ghLink="https://github.com/"
-              demoLink=""             
+              ghLink="https://github.com/Juny22/Projet-9-Nina-Carducci"
+              demoLink="https://juny22.github.io/Projet-9-Nina-Carducci/"             
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={chatify}
+              isBlog={false}
+              title="Agence Kasa"
+              description="description"
+              ghLink="https://github.com/Juny22/Projet-8---Agence-Kasa"
+              demoLink=""
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={chatify}
+              isBlog={false}
+              title="Sophie Bluel"
+              description="description"
+              ghLink="https://github.com/Juny22/Projet-6-Sophie-Bluel"
+              demoLink=""
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={chatify}
+              isBlog={false}
+              title="Booki"
+              description="description"
+              ghLink="https://github.com/Juny22/Projet-3_booki-starter-code-master"
+              demoLink="https://juny22.github.io/Projet-3_booki-starter-code-master/"
             />
           </Col>
         </Row>
