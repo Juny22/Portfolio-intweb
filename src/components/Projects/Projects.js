@@ -36,7 +36,7 @@ function Projects() {
               title="724Events"
               description="description"
               ghLink="https://github.com/Juny22/Projet-10---724events"
-              demoLink=""
+              demoLink="https://juny22.github.io/Projet-10---724events/"
             />
           </Col>
 
