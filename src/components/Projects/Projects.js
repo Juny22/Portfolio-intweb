@@ -58,7 +58,7 @@ function Projects() {
               title="Agence Kasa"
               description="description"
               ghLink="https://github.com/Juny22/Projet-8---Agence-Kasa"
-              demoLink=""
+              demoLink="https://juny22.github.io/Projet-8---Agence-Kasa/"
             />
           </Col>
 
@@ -69,7 +69,7 @@ function Projects() {
               title="Sophie Bluel"
               description="description"
               ghLink="https://github.com/Juny22/Projet-6-Sophie-Bluel"
-              demoLink=""
+              demoLink="https://juny22.github.io/Projet-6-Sophie-Bluel/FrontEnd/index.html"
             />
           </Col>
 
