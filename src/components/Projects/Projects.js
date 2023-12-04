@@ -28,10 +28,11 @@ function Projects() {
               Les fonctionnalités attendues incluent la navigation, la connexion/déconnexion des utilisateurs,
               et la restriction d'accès aux données du profil après la connexion.
               Seules les modifications du pseudonyme étaient autorisées.
-              J'ai également travaillé sur une fonctionnalité de transactions permettant aux utilisateurs de réaliser certaines actions spécifiques."
+              J'ai également travaillé sur une fonctionnalité de transactions permettant aux utilisateurs de réaliser certaines actions spécifiques.
+              La connexion ne fonctionne pas car il faut lancer le backend."
               softwareUsed="React, React Redux"
               ghLink="https://github.com/Juny22/ArgentBank-website"
-              demoLink=""
+              demoLink="https://juny22.github.io/ArgentBank-website/"
             />
           </Col>
           
@@ -73,20 +74,6 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Agence Kasa"
-              description="L'objectif était de démarrer le projet en React avec Create React App et de développer toute l'application 
-              y compris les composants React, les routes avec React Router, en respectant les maquettes Figma fournies pour l'Agence Kasa.
-              La contrainte principale était l'absence temporaire d'une équipe dédiée au back-end, nécessitant ainsi une construction du Front-end indépendamment pour le moment."
-              softwareUsed="React"
-              ghLink="https://github.com/Juny22/Projet-8---Agence-Kasa"
-              demoLink="https://juny22.github.io/Projet-8---Agence-Kasa/"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={chatify}
-              isBlog={false}
               title="Sophie Bluel"
               description="Pour ce projet, mon rôle impliquait la création d'une page présentant les travaux de l'architecte à partir du code HTML existant, 
               la conception d'une page de connexion pour l'administrateur du site, ainsi que la création d'une modale pour télécharger de nouveaux médias.
@@ -94,6 +81,21 @@ function Projects() {
               softwareUsed="JavaScript, HTML, CSS"
               ghLink="https://github.com/Juny22/Projet-6-Sophie-Bluel"
               demoLink="https://juny22.github.io/Projet-6-Sophie-Bluel/FrontEnd/index.html"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={chatify}
+              isBlog={false}
+              title="Ohmyfood"
+              description="Le projet visait à concevoir un site web responsive pour les restaurants gastronomiques,
+              offrant la possibilité aux clients de composer leur repas à l'avance pour réduire les temps d'attente.
+              En mettant l'accent sur la mobilité, le site proposera des menus, un système de réservation et une fonctionnalité de composition de repas,
+              améliorant ainsi l'expérience client."
+              softwareUsed="HTML, CSS, SASS"
+              ghLink="https://github.com/Juny22/Projet-4-Ohmyfood"
+              demoLink="https://juny22.github.io/Projet-4-Ohmyfood/"
             />
           </Col>
 

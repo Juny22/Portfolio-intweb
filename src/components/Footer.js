@@ -12,11 +12,11 @@ function Footer() {
   return (
     <Container fluid className="footer">
       <Row>
-        <Col md="4" className="footer-copywright">
+        <Col md="4">
           <h3>Lang YA</h3>
         </Col>
-        <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} SB</h3>
+        <Col md="4">
+          <h3>{year}</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
