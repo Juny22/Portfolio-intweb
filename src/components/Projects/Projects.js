@@ -2,9 +2,12 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import NinacarducciImg from "../../Assets/Projects/ninacarducci.png";
+import ArgentbankImg from "../../Assets/Projects/argentbank.png";
+import EventImg from "../../Assets/Projects/724events.png";
+import SophiebluelImg from "../../Assets/Projects/sophiebluel.png"
+import OhmyfoodImg from "../../Assets/Projects/ohmyfood.png"
+import BookiImg from "../../Assets/Projects/booki.png"
 
 function Projects() {
   return (
@@ -20,7 +23,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={ArgentbankImg}
               isBlog={false}
               title="ArgentBank"
               description="Ce projet consistait à créer une application web réactive avec React Redux 
@@ -38,7 +41,7 @@ function Projects() {
           
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={EventImg}
               isBlog={false}
               title="724Events"
               description="Ce projet consistait à résoudre plusieurs problèmes sur le site existant de 724Events.
@@ -55,7 +58,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={NinacarducciImg}
               isBlog={false}
               title="Nina Carducci"
               description="Ce projet visait à améliorer considérablement le référencement du site de la photographe Nina Carducci en intervenant à plusieurs niveaux :
@@ -72,7 +75,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={SophiebluelImg}
               isBlog={false}
               title="Sophie Bluel"
               description="Pour ce projet, mon rôle impliquait la création d'une page présentant les travaux de l'architecte à partir du code HTML existant, 
@@ -86,7 +89,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={OhmyfoodImg}
               isBlog={false}
               title="Ohmyfood"
               description="Le projet visait à concevoir un site web responsive pour les restaurants gastronomiques,
@@ -101,7 +104,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={BookiImg}
               isBlog={false}
               title="Booki"
               description="La mission de ce projet consistait à créer un site web pour Booki, permettant aux utilisateurs de rechercher des hébergements et des activités dans la ville de leur choix.
