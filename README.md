@@ -1,14 +1,6 @@
 <h2 align="center">
-  Portfolio Website<br/>
+  Portfolio Website<br/>https://juny22.github.io/Projet-10---724events/
 </h2>
-
-
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
 
 ## Built With
 
