@@ -2,17 +2,6 @@
   Portfolio Website<br/>
 </h2>
 
-<br/>
-
-<center>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
-
-</center>
 
 <h3 align="center">
     🔹
@@ -40,10 +29,6 @@ This project was built using these technologies.
 
 **📱 Fully Responsive**
 
-## Getting Started
-
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
-
 ## 🛠 Installation and Setup Instructions
 
 1. Installation: `npm install`
@@ -59,4 +44,4 @@ The page will reload if you make edits.
 Open the project folder and Navigate to `/src/components/`. <br/>
 You will find all the components used and you can edit your information accordingly.
 
-Portfolio model by [Soumyajit4419](https://github.com/soumyajit4419/Portfolio).
+Portfolio inspired by [Soumyajit4419](https://github.com/soumyajit4419/Portfolio).
