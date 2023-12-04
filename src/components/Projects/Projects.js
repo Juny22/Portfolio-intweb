@@ -23,12 +23,13 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="ArgentBank"
-              description={`Ce projet consistait à créer une application web réactive avec React Redux 
+              description="Ce projet consistait à créer une application web réactive avec React Redux 
               pour un système d'authentification pour la banque en ligne Argent Bank.
               Les fonctionnalités attendues incluent la navigation, la connexion/déconnexion des utilisateurs,
               et la restriction d'accès aux données du profil après la connexion.
               Seules les modifications du pseudonyme étaient autorisées.
-              J'ai également travaillé sur une fonctionnalité de transactions permettant aux utilisateurs de réaliser certaines actions spécifiques.`}
+              J'ai également travaillé sur une fonctionnalité de transactions permettant aux utilisateurs de réaliser certaines actions spécifiques."
+              softwareUsed="React, React Redux"
               ghLink="https://github.com/Juny22/ArgentBank-website"
               demoLink=""
             />
@@ -45,6 +46,7 @@ function Projects() {
               En plus de ces corrections, je devais effectuer des tests pour m'assurer du bon fonctionnement du site une fois les correctifs appliqués.
               Enfin, j'ai rempli un cahier de recette pour garantir la fiabilité du site et répondre aux besoins actuels,
               tout en fournissant une base pour les futurs développements."
+              softwareUsed="React"
               ghLink="https://github.com/Juny22/Projet-10---724events"
               demoLink="https://juny22.github.io/Projet-10---724events/"
             />
@@ -61,6 +63,7 @@ function Projects() {
               L'intégration de métadonnées spécifiques aux réseaux sociaux pour améliorer la présence en ligne.
               Améliorer de l'accessibilité du site pour tous les utilisateurs.
               Réaliser rapport détaillé, exposant toutes les actions entreprises et leur impact sur le site."
+              softwareUsed="JavaScript, HTML, CSS"
               ghLink="https://github.com/Juny22/Projet-9-Nina-Carducci"
               demoLink="https://juny22.github.io/Projet-9-Nina-Carducci/"             
             />
@@ -74,6 +77,7 @@ function Projects() {
               description="L'objectif était de démarrer le projet en React avec Create React App et de développer toute l'application 
               y compris les composants React, les routes avec React Router, en respectant les maquettes Figma fournies pour l'Agence Kasa.
               La contrainte principale était l'absence temporaire d'une équipe dédiée au back-end, nécessitant ainsi une construction du Front-end indépendamment pour le moment."
+              softwareUsed="React"
               ghLink="https://github.com/Juny22/Projet-8---Agence-Kasa"
               demoLink="https://juny22.github.io/Projet-8---Agence-Kasa/"
             />
@@ -87,6 +91,7 @@ function Projects() {
               description="Pour ce projet, mon rôle impliquait la création d'une page présentant les travaux de l'architecte à partir du code HTML existant, 
               la conception d'une page de connexion pour l'administrateur du site, ainsi que la création d'une modale pour télécharger de nouveaux médias.
               Les médias n'apparaissent pas sur la démo car il faut être connecté au backend."
+              softwareUsed="JavaScript, HTML, CSS"
               ghLink="https://github.com/Juny22/Projet-6-Sophie-Bluel"
               demoLink="https://juny22.github.io/Projet-6-Sophie-Bluel/FrontEnd/index.html"
             />
@@ -101,6 +106,7 @@ function Projects() {
               Mon rôle était d'intégrer l'interface utilisateur en utilisant du code HTML et CSS.
               L'objectif était de fournir une expérience conviviale et attrayante,
               facilitant la navigation et la recherche pour les utilisateurs à la recherche d'options d'hébergement et d'activités dans différentes villes."
+              softwareUsed="HTML, CSS"
               ghLink="https://github.com/Juny22/Projet-3_booki-starter-code-master"
               demoLink="https://juny22.github.io/Projet-3_booki-starter-code-master/"
             />
