@@ -23,7 +23,12 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="ArgentBank"
-              description="description"
+              description={`Ce projet consistait à créer une application web réactive avec React Redux 
+              pour un système d'authentification pour la banque en ligne Argent Bank.
+              Les fonctionnalités attendues incluent la navigation, la connexion/déconnexion des utilisateurs,
+              et la restriction d'accès aux données du profil après la connexion.
+              Seules les modifications du pseudonyme étaient autorisées.
+              J'ai également travaillé sur une fonctionnalité de transactions permettant aux utilisateurs de réaliser certaines actions spécifiques.`}
               ghLink="https://github.com/Juny22/ArgentBank-website"
               demoLink=""
             />
@@ -34,7 +39,12 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="724Events"
-              description="description"
+              description="Ce projet consistait à résoudre plusieurs problèmes sur le site existant de 724Events.
+              Je devais corriger des bugs tels que l'affichage incorrect des événements dans le carrousel,
+              le dysfonctionnement du filtre des réalisations et l'absence d'affichage du message de confirmation après l'envoi du formulaire.
+              En plus de ces corrections, je devais effectuer des tests pour m'assurer du bon fonctionnement du site une fois les correctifs appliqués.
+              Enfin, j'ai rempli un cahier de recette pour garantir la fiabilité du site et répondre aux besoins actuels,
+              tout en fournissant une base pour les futurs développements."
               ghLink="https://github.com/Juny22/Projet-10---724events"
               demoLink="https://juny22.github.io/Projet-10---724events/"
             />
@@ -45,7 +55,12 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="Nina Carducci"
-              description="description"
+              description="Ce projet visait à améliorer considérablement le référencement du site de la photographe Nina Carducci en intervenant à plusieurs niveaux :
+              L'optimisation globale pour augmenter à la fois les performances et l'efficacité du référencement (SEO).
+              L'implémentation d'un référencement local via Schema.org pour une meilleure visibilité locale.
+              L'intégration de métadonnées spécifiques aux réseaux sociaux pour améliorer la présence en ligne.
+              Améliorer de l'accessibilité du site pour tous les utilisateurs.
+              Réaliser rapport détaillé, exposant toutes les actions entreprises et leur impact sur le site."
               ghLink="https://github.com/Juny22/Projet-9-Nina-Carducci"
               demoLink="https://juny22.github.io/Projet-9-Nina-Carducci/"             
             />
@@ -56,7 +71,9 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Agence Kasa"
-              description="description"
+              description="L'objectif était de démarrer le projet en React avec Create React App et de développer toute l'application 
+              y compris les composants React, les routes avec React Router, en respectant les maquettes Figma fournies pour l'Agence Kasa.
+              La contrainte principale était l'absence temporaire d'une équipe dédiée au back-end, nécessitant ainsi une construction du Front-end indépendamment pour le moment."
               ghLink="https://github.com/Juny22/Projet-8---Agence-Kasa"
               demoLink="https://juny22.github.io/Projet-8---Agence-Kasa/"
             />
@@ -67,7 +84,9 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Sophie Bluel"
-              description="description"
+              description="Pour ce projet, mon rôle impliquait la création d'une page présentant les travaux de l'architecte à partir du code HTML existant, 
+              la conception d'une page de connexion pour l'administrateur du site, ainsi que la création d'une modale pour télécharger de nouveaux médias.
+              Les médias n'apparaissent pas sur la démo car il faut être connecté au backend."
               ghLink="https://github.com/Juny22/Projet-6-Sophie-Bluel"
               demoLink="https://juny22.github.io/Projet-6-Sophie-Bluel/FrontEnd/index.html"
             />
@@ -78,7 +97,10 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Booki"
-              description="description"
+              description="La mission de ce projet consistait à créer un site web pour Booki, permettant aux utilisateurs de rechercher des hébergements et des activités dans la ville de leur choix.
+              Mon rôle était d'intégrer l'interface utilisateur en utilisant du code HTML et CSS.
+              L'objectif était de fournir une expérience conviviale et attrayante,
+              facilitant la navigation et la recherche pour les utilisateurs à la recherche d'options d'hébergement et d'activités dans différentes villes."
               ghLink="https://github.com/Juny22/Projet-3_booki-starter-code-master"
               demoLink="https://juny22.github.io/Projet-3_booki-starter-code-master/"
             />

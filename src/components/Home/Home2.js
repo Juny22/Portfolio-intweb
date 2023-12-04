@@ -18,32 +18,18 @@ function Home2() {
              <span className="purple">Présentation</span>
             </h1>
             <p className="home-about-body">
-              
+              Récemment, j'ai plongé dans l'univers de la programmation en apprenant les langages
+              <b className="purple"> HTML</b>,
+              <b className="purple"> CSS</b>,
+              <b className="purple"> JavaScript</b>,
+              ainsi que le framework
+              <b className="purple"> React</b>.
               <br />
+              La création de sites web dynamiques et interactifs m'a toujours intrigué, et c'est ce qui m'a poussé à explorer ces
+              <b className="purple"> langages</b>.
               <br />
-              <i>
-                <b className="purple"></b>
-              </i>
+              Je suis ouvert aux opportunités de collaboration, d'apprentissage et d'exploration dans le domaine du développement web. N'hésitez pas à me contacter si vous souhaitez discuter de projets passionnants ou échanger des idées sur le développement web.
               <br />
-              <br />
-              &nbsp;
-              <i>
-                <b className="purple"></b> {" "}
-                <b className="purple">
-                </b>
-              </i>
-              <br />
-              <br />
-              <b className="purple"></b>
-              <i>
-                <b className="purple">
-                  {" "}
-                </b>
-              </i>
-              &nbsp;
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
