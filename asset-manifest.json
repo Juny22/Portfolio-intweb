@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio-intweb/static/css/main.f037a80f.css",
-    "main.js": "/Portfolio-intweb/static/js/main.cd9230fb.js",
+    "main.css": "/Portfolio-intweb/static/css/main.e5da97ac.css",
+    "main.js": "/Portfolio-intweb/static/js/main.d423bca2.js",
     "static/js/415.d00e97f7.chunk.js": "/Portfolio-intweb/static/js/415.d00e97f7.chunk.js",
     "static/js/787.f6e65957.chunk.js": "/Portfolio-intweb/static/js/787.f6e65957.chunk.js",
     "static/media/ninacarducci.png": "/Portfolio-intweb/static/media/ninacarducci.c64d9243872f3009154c.png",
@@ -12,17 +12,16 @@
     "static/media/argentbank.png": "/Portfolio-intweb/static/media/argentbank.1426264ab84f69b54a99.png",
     "static/media/home-main.svg": "/Portfolio-intweb/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/Portfolio-intweb/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/home-bg.jpg": "/Portfolio-intweb/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/Portfolio-intweb/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/avatar.svg": "/Portfolio-intweb/static/media/avatar.e655fd651af0bdcc8ae8311c338f65cd.svg",
     "static/media/pre.svg": "/Portfolio-intweb/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio-intweb/index.html",
-    "main.f037a80f.css.map": "/Portfolio-intweb/static/css/main.f037a80f.css.map",
-    "main.cd9230fb.js.map": "/Portfolio-intweb/static/js/main.cd9230fb.js.map",
+    "main.e5da97ac.css.map": "/Portfolio-intweb/static/css/main.e5da97ac.css.map",
+    "main.d423bca2.js.map": "/Portfolio-intweb/static/js/main.d423bca2.js.map",
     "415.d00e97f7.chunk.js.map": "/Portfolio-intweb/static/js/415.d00e97f7.chunk.js.map",
     "787.f6e65957.chunk.js.map": "/Portfolio-intweb/static/js/787.f6e65957.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f037a80f.css",
-    "static/js/main.cd9230fb.js"
+    "static/css/main.e5da97ac.css",
+    "static/js/main.d423bca2.js"
   ]
 }
