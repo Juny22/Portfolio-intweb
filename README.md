@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  https://juny22.github.io/Projet-10---724events/<br/>
+  <a href="https://juny22.github.io/Portfolio-intweb/" target="_blank">Démo ici</a>
 </h2>
 
 ## Built With
@@ -37,4 +37,4 @@ The page will reload if you make edits.
 Open the project folder and Navigate to `/src/components/`. <br/>
 You will find all the components used and you can edit your information accordingly.
 
-Portfolio inspired by [Soumyajit4419](https://github.com/soumyajit4419/Portfolio).
+Portfolio inspired by [Soumyajit4419].
