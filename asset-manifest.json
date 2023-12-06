@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Portfolio-intweb/static/css/main.e5da97ac.css",
-    "main.js": "/Portfolio-intweb/static/js/main.d423bca2.js",
+    "main.css": "/Portfolio-intweb/static/css/main.7591b558.css",
+    "main.js": "/Portfolio-intweb/static/js/main.153299e2.js",
     "static/js/415.d00e97f7.chunk.js": "/Portfolio-intweb/static/js/415.d00e97f7.chunk.js",
     "static/js/787.f6e65957.chunk.js": "/Portfolio-intweb/static/js/787.f6e65957.chunk.js",
     "static/media/ninacarducci.png": "/Portfolio-intweb/static/media/ninacarducci.c64d9243872f3009154c.png",
     "static/media/724events.png": "/Portfolio-intweb/static/media/724events.dd20280e8245feffa10c.png",
     "static/media/sophiebluel.png": "/Portfolio-intweb/static/media/sophiebluel.a56604216dbdf6f7d6c5.png",
+    "static/media/about.png": "/Portfolio-intweb/static/media/about.0ae541d6aa2d85e0d372.png",
     "static/media/ohmyfood.png": "/Portfolio-intweb/static/media/ohmyfood.0caf1ddb6b607e8cf54c.png",
+    "static/media/home-main.png": "/Portfolio-intweb/static/media/home-main.dcd956a62d7e77d87201.png",
     "static/media/booki.png": "/Portfolio-intweb/static/media/booki.339f88a2b0c29b0f0ed2.png",
     "static/media/argentbank.png": "/Portfolio-intweb/static/media/argentbank.1426264ab84f69b54a99.png",
-    "static/media/home-main.svg": "/Portfolio-intweb/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/Portfolio-intweb/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/avatar.svg": "/Portfolio-intweb/static/media/avatar.e655fd651af0bdcc8ae8311c338f65cd.svg",
-    "static/media/pre.svg": "/Portfolio-intweb/static/media/pre.d4812f51c8c80976eaab.svg",
+    "static/media/avatar.png": "/Portfolio-intweb/static/media/avatar.320a35ef2bba78a770b4.png",
+    "static/media/pre.svg": "/Portfolio-intweb/static/media/pre.3d26e213bdfa6ba965b1.svg",
     "index.html": "/Portfolio-intweb/index.html",
-    "main.e5da97ac.css.map": "/Portfolio-intweb/static/css/main.e5da97ac.css.map",
-    "main.d423bca2.js.map": "/Portfolio-intweb/static/js/main.d423bca2.js.map",
+    "main.7591b558.css.map": "/Portfolio-intweb/static/css/main.7591b558.css.map",
+    "main.153299e2.js.map": "/Portfolio-intweb/static/js/main.153299e2.js.map",
     "415.d00e97f7.chunk.js.map": "/Portfolio-intweb/static/js/415.d00e97f7.chunk.js.map",
     "787.f6e65957.chunk.js.map": "/Portfolio-intweb/static/js/787.f6e65957.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5da97ac.css",
-    "static/js/main.d423bca2.js"
+    "static/css/main.7591b558.css",
+    "static/js/main.153299e2.js"
   ]
 }
