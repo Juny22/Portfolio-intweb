@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-intweb/static/css/main.023e5856.css",
-    "main.js": "/Portfolio-intweb/static/js/main.ebffa9a9.js",
+    "main.js": "/Portfolio-intweb/static/js/main.2b3a91bf.js",
     "static/js/415.d00e97f7.chunk.js": "/Portfolio-intweb/static/js/415.d00e97f7.chunk.js",
     "static/js/787.f6e65957.chunk.js": "/Portfolio-intweb/static/js/787.f6e65957.chunk.js",
     "static/media/ninacarducci.png": "/Portfolio-intweb/static/media/ninacarducci.c64d9243872f3009154c.png",
@@ -16,12 +16,12 @@
     "static/media/pre.svg": "/Portfolio-intweb/static/media/pre.3d26e213bdfa6ba965b1.svg",
     "index.html": "/Portfolio-intweb/index.html",
     "main.023e5856.css.map": "/Portfolio-intweb/static/css/main.023e5856.css.map",
-    "main.ebffa9a9.js.map": "/Portfolio-intweb/static/js/main.ebffa9a9.js.map",
+    "main.2b3a91bf.js.map": "/Portfolio-intweb/static/js/main.2b3a91bf.js.map",
     "415.d00e97f7.chunk.js.map": "/Portfolio-intweb/static/js/415.d00e97f7.chunk.js.map",
     "787.f6e65957.chunk.js.map": "/Portfolio-intweb/static/js/787.f6e65957.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.023e5856.css",
-    "static/js/main.ebffa9a9.js"
+    "static/js/main.2b3a91bf.js"
   ]
 }
