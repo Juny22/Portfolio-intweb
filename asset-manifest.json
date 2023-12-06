@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio-intweb/static/css/main.7591b558.css",
-    "main.js": "/Portfolio-intweb/static/js/main.709ca5f2.js",
+    "main.css": "/Portfolio-intweb/static/css/main.023e5856.css",
+    "main.js": "/Portfolio-intweb/static/js/main.485bd26d.js",
     "static/js/415.d00e97f7.chunk.js": "/Portfolio-intweb/static/js/415.d00e97f7.chunk.js",
     "static/js/787.f6e65957.chunk.js": "/Portfolio-intweb/static/js/787.f6e65957.chunk.js",
     "static/media/ninacarducci.png": "/Portfolio-intweb/static/media/ninacarducci.c64d9243872f3009154c.png",
@@ -15,13 +15,13 @@
     "static/media/avatar.png": "/Portfolio-intweb/static/media/avatar.320a35ef2bba78a770b4.png",
     "static/media/pre.svg": "/Portfolio-intweb/static/media/pre.3d26e213bdfa6ba965b1.svg",
     "index.html": "/Portfolio-intweb/index.html",
-    "main.7591b558.css.map": "/Portfolio-intweb/static/css/main.7591b558.css.map",
-    "main.709ca5f2.js.map": "/Portfolio-intweb/static/js/main.709ca5f2.js.map",
+    "main.023e5856.css.map": "/Portfolio-intweb/static/css/main.023e5856.css.map",
+    "main.485bd26d.js.map": "/Portfolio-intweb/static/js/main.485bd26d.js.map",
     "415.d00e97f7.chunk.js.map": "/Portfolio-intweb/static/js/415.d00e97f7.chunk.js.map",
     "787.f6e65957.chunk.js.map": "/Portfolio-intweb/static/js/787.f6e65957.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7591b558.css",
-    "static/js/main.709ca5f2.js"
+    "static/css/main.023e5856.css",
+    "static/js/main.485bd26d.js"
   ]
 }
