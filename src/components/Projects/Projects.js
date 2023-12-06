@@ -26,11 +26,9 @@ function Projects() {
               imgPath={ArgentbankImg}
               isBlog={false}
               title={<strong>ArgentBank</strong>}
-              description="Ce projet consistait à créer une application web réactive avec React Redux 
-              pour un système d'authentification pour la banque en ligne Argent Bank.
-              Les fonctionnalités attendues incluent la navigation, la connexion/déconnexion des utilisateurs,
-              et la restriction d'accès aux données du profil après la connexion.
-              Seules les modifications du pseudonyme étaient autorisées.
+              description="Ce projet visait à concevoir une application web réactive en utilisant React Redux pour le système d'authentification d'Argent Bank, une banque en ligne.
+              Les fonctionnalités prévues comprenaient la gestion de la navigation, l'authentification des utilisateurs (connexion/déconnexion) et 
+              la sécurisation de l'accès aux données du profil après la connexion. Seule la modification du pseudonyme était autorisée dans ce contexte.
               J'ai également travaillé sur une fonctionnalité de transactions permettant aux utilisateurs de réaliser certaines actions spécifiques.
               La connexion ne fonctionne pas car il faut lancer le backend."
               softwareUsed={<strong>React, React Redux, Node.js</strong>}
