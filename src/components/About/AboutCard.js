@@ -27,11 +27,7 @@ function AboutCard() {
               <ImPointRight /> Danse - Breakdance / Locking
             </li>
           </ul>
-
-          <p style={{ color: "rgb(155 126 172)" }}>
-            {" "}
-          </p>
-          <footer className="blockquote-footer"></footer>
+          <footer></footer>
         </blockquote>
       </Card.Body>
     </Card>
