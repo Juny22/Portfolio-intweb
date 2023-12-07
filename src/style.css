@@ -140,7 +140,7 @@ button:focus {
   opacity: 0.9 !important;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 992px) {
   .navbar {
     padding: 1rem 2rem !important;
     font-size: 1.4rem !important;
@@ -169,7 +169,7 @@ button:focus {
   padding: 0.8rem 1rem !important;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 992px) {
   .nav-link {
     padding: 0.7rem 1rem !important;
   }
@@ -294,7 +294,7 @@ button:focus {
   color: #2478b7 !important;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 992px) {
   .Typewriter__wrapper {
     font-size: 1.4em !important;
     font-weight: 500 !important;
@@ -310,7 +310,7 @@ button:focus {
   padding-top: 9em !important;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 992px) {
   .myAvtar {
     padding-top: 2em !important;
     padding-bottom: 2em !important;
@@ -402,7 +402,7 @@ button:focus {
 /* Footer */
 /* --------- */
 .footer {
-  background-color: rgb(10, 4, 22);
+  background-color: rgb(4, 4, 22);
   bottom: 0 !important;
   padding-top: 10px !important;
   padding-bottom: 8px !important ;
@@ -413,7 +413,7 @@ button:focus {
   text-align: center !important;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 992px) {
   .footer-body {
     text-align: center !important;
   }
@@ -431,9 +431,6 @@ button:focus {
   padding: 0 !important;
 }
 
-.blockquote-footer {
-  color: #94c2e5 !important;
-}
 /* --------- */
 /* Projects */
 /* --------- */
@@ -553,12 +550,12 @@ button:focus {
   text-align: center !important;
   border-radius: 5px !important;
   display: table !important;
-  box-shadow: 4px 5px 4px 3px rgba(89, 4, 168, 0.137) !important;
+  box-shadow: 4px 5px 4px 3px rgba(6, 46, 223, 0.137) !important;
   overflow: hidden !important;
   transition: all 0.4s ease 0s !important;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 992px) {
   .tech-icons {
     margin: 10px !important;
   }
@@ -567,7 +564,7 @@ button:focus {
 .tech-icons:hover {
   transform: scale(1.05) !important;
   overflow: hidden !important;
-  border: 2.2px solid rgba(115, 125, 230, 0.883) !important;
+  border: 2.2px solid rgba(115, 146, 230, 0.883)important;
 }
 .tech-icon-images {
   padding: 20px !important;
@@ -586,7 +583,7 @@ button:focus {
   padding-left: 1px !important;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 992px) {
   .about-img {
     padding-top: 0 !important;
   }
@@ -617,7 +614,7 @@ button:focus {
   padding-left: 80px !important;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 992px) {
   .resume-left {
     padding-right: 15px !important;
     padding-left: 15px !important;
